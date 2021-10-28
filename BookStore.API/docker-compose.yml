@@ -1,0 +1,12 @@
+﻿version: '3.9'
+services:
+    ssql-server:
+        image: "mcr.microsoft.com/mssql/server"
+        container_name: 'ssql-server'
+        # networks:
+        # dotnet_core:
+        environment:
+            SA_PASSWORD: "Harveymark2019"
+            ACCEPT_EULA: "Y"
+        ports:
+        - 1433:1433

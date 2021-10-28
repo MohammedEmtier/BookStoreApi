@@ -1,0 +1,235 @@
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/appsettings.Development.json
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/appsettings.json
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/libman.json
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/BookStore.API.deps.json
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/BookStore.API.runtimeconfig.json
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/BookStore.API.runtimeconfig.dev.json
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/BookStore.API.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/ref/BookStore.API.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/BookStore.API.pdb
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/AutoMapper.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Humanizer.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Newtonsoft.Json.Bson.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/System.Composition.Convention.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/System.Composition.Hosting.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/System.Composition.Runtime.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/System.Composition.TypedParts.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/obj/Debug/net5.0/BookStore.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/obj/Debug/net5.0/BookStore.API.AssemblyInfoInputs.cache
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/obj/Debug/net5.0/BookStore.API.AssemblyInfo.cs
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/obj/Debug/net5.0/BookStore.API.csproj.CoreCompileInputs.cache
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/obj/Debug/net5.0/BookStore.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/obj/Debug/net5.0/staticwebassets/BookStore.API.StaticWebAssets.Manifest.cache
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/obj/Debug/net5.0/staticwebassets/BookStore.API.StaticWebAssets.xml
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/obj/Debug/net5.0/scopedcss/bundle/BookStore.API.styles.css
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/obj/Debug/net5.0/BookStore.API.RazorTargetAssemblyInfo.cache
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/obj/Debug/net5.0/BookStore.API.csproj.CopyComplete
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/obj/Debug/net5.0/BookStore.API.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/obj/Debug/net5.0/ref/BookStore.API.dll
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/obj/Debug/net5.0/BookStore.API.pdb
+/Users/moha/Desktop/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/obj/Debug/net5.0/BookStore.API.genruntimeconfig.cache
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/appsettings.Development.json
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/libman.json
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/appsettings.json
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/BookStore.API.deps.json
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/BookStore.API.runtimeconfig.json
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/BookStore.API.runtimeconfig.dev.json
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/BookStore.API.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/ref/BookStore.API.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/BookStore.API.pdb
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/AutoMapper.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Humanizer.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Newtonsoft.Json.Bson.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/obj/Debug/net5.0/BookStore.API.csproj.AssemblyReference.cache
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/obj/Debug/net5.0/BookStore.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/obj/Debug/net5.0/BookStore.API.AssemblyInfoInputs.cache
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/obj/Debug/net5.0/BookStore.API.AssemblyInfo.cs
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/obj/Debug/net5.0/BookStore.API.csproj.CoreCompileInputs.cache
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/obj/Debug/net5.0/BookStore.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/obj/Debug/net5.0/staticwebassets/BookStore.API.StaticWebAssets.Manifest.cache
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/obj/Debug/net5.0/staticwebassets/BookStore.API.StaticWebAssets.xml
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/obj/Debug/net5.0/scopedcss/bundle/BookStore.API.styles.css
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/obj/Debug/net5.0/BookStore.API.RazorTargetAssemblyInfo.cache
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/obj/Debug/net5.0/BookStore.API.csproj.CopyComplete
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/obj/Debug/net5.0/BookStore.API.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/obj/Debug/net5.0/ref/BookStore.API.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/obj/Debug/net5.0/BookStore.API.pdb
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/obj/Debug/net5.0/BookStore.API.genruntimeconfig.cache
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Hangfire.AspNetCore.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Hangfire.Core.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/Hangfire.SqlServer.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/System.Data.SqlClient.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/ca/Hangfire.Core.resources.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/de/Hangfire.Core.resources.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/es/Hangfire.Core.resources.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/fa/Hangfire.Core.resources.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/fr/Hangfire.Core.resources.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/nb/Hangfire.Core.resources.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/nl/Hangfire.Core.resources.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/pt-BR/Hangfire.Core.resources.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/pt-PT/Hangfire.Core.resources.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/pt/Hangfire.Core.resources.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/zh-TW/Hangfire.Core.resources.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/zh/Hangfire.Core.resources.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/runtimes/win-arm64/native/sni.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/runtimes/win-x64/native/sni.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/runtimes/win-x86/native/sni.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/runtimes/unix/lib/netstandard2.0/System.Data.SqlClient.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Data.SqlClient.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/ar/BookStore.API.resources.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/bin/Debug/net5.0/en/BookStore.API.resources.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/obj/Debug/net5.0/BookStore.API.csproj.GenerateResource.cache
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/obj/Debug/net5.0/ar/BookStore.API.resources.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/obj/Debug/net5.0/en/BookStore.API.resources.dll
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/obj/Debug/net5.0/BookStore.API.Resources.Controllers.LanguageController.ar.resources
+/Users/moha/Downloads/untitled folder/asp-net-core-web-api-main/BookStore/BookStore.API/BookStore.API/obj/Debug/net5.0/BookStore.API.Resources.Controllers.LanguageController.en.resources
