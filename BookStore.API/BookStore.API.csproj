@@ -19,13 +19,17 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
-    <PackageReference Include="Hangfire" Version="1.7.25" />
+    <PackageReference Include="Hangfire" Version="1.7.26" />
+    <PackageReference Include="MailKit" Version="2.15.0" />
+    <PackageReference Include="MimeKit" Version="2.15.1" />
   </ItemGroup>
 
   <ItemGroup>
     <None Remove="Hangfire" />
     <None Remove="Resources\" />
     <None Remove="Resources\Controller\Api\Resources.ar" />
+    <None Remove="MailKit" />
+    <None Remove="MimeKit" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Resources\" />
@@ -43,6 +47,10 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.en.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Update="Resources\Controllers\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <Compile Update="Resources\EnglishResource.Designer.cs">
@@ -56,6 +64,9 @@
     </Compile>
     <Compile Update="Resources\Controller\Api\Resources.en.Designer.cs">
       <DependentUpon>Resources.en.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Resources\Controllers\Resources.Designer.cs">
+      <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
   </ItemGroup>
 </Project>

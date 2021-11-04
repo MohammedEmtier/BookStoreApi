@@ -22,6 +22,7 @@ namespace BookStore.API.Controllers
         {
             _bookRepository = bookRepository;
         }
+        //[Authorize(Roles ="admin")]
         [HttpGet("")]
         
         public async Task<IActionResult> GetAllBooks()

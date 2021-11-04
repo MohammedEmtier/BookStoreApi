@@ -12,7 +12,7 @@ namespace BookStore.API.Helpers
     {
         public ApplicationMapper()
         {
-            CreateMap<Books, BookModel>().ReverseMap();
+            CreateMap<Books, BookModel>().ReverseMap();/*.ForMember(e=>e.Id,s=>s.MapFrom(e=>e.Id));*/
         }
     }
 }

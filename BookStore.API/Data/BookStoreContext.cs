@@ -49,6 +49,5 @@ namespace BookStore.API.Data
         }
         public DbSet<Books> Books { get; set; }
         public DbSet<Auther> Auther { get; set; }
-
     }
 }

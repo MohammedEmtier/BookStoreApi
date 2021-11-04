@@ -39,11 +39,11 @@ namespace BookStore.API.Repository
                 Email = signUpModel.Email,
                 UserName = signUpModel.Email
             };
-            if (await _userManager.FindByEmailAsync(signUpModel.Email) is not null)
-            {
-            }
+            //if (await _userManager.FindByEmailAsync(signUpModel.Email) is not null)
+            //{
+            //    // return  _userManager.ErrorDescriber.DuplicateEmail(signUpModel.Email);
+            //}
             return await _userManager.CreateAsync(user, signUpModel.Password);
-
         }
 
         public async Task<string> LoginAsync(SignInModel signInModel)

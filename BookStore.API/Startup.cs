@@ -33,10 +33,11 @@ namespace BookStore.API
             Configuration = configuration;
         }
 
-        public IConfiguration Configuration { get; }
+        public IConfiguration Configuration { get; }    
 
         public void ConfigureServices(IServiceCollection services)
         {
+            services.Configure<EmailSettings>(Configuration.GetSection("EmailSettings"));
             services.AddDbContext<BookStoreContext>(
                 options => options.UseSqlServer(Configuration.GetConnectionString("BookStoreDB")));
             services.AddLocalization(options => options.ResourcesPath = "Resources");
@@ -78,6 +79,7 @@ namespace BookStore.API
                     };
                 });
             services.AddControllers().AddNewtonsoftJson();
+            services.AddTransient<IEmailSender, EmailSender>();
             services.AddTransient<IBookRepository, BookRepository>();
             services.AddTransient<IAccountRepository, AccountRepository>();
             services.AddTransient<IAutherRepoistory<Auther>, AutherRepoistory>();
