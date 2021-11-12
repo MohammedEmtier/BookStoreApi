@@ -33,13 +33,17 @@ namespace BookStore.API
             Configuration = configuration;
         }
 
-        public IConfiguration Configuration { get; }    
+        public IConfiguration Configuration { get; }
 
         public void ConfigureServices(IServiceCollection services)
         {
             services.Configure<EmailSettings>(Configuration.GetSection("EmailSettings"));
             services.AddDbContext<BookStoreContext>(
-                options => options.UseSqlServer(Configuration.GetConnectionString("BookStoreDB")));
+                options =>
+                {
+                    options.UseSqlServer(Configuration.GetConnectionString("BookStoreDB"),
+                    sqlServerOptionsAction: sqlOptions => sqlOptions.EnableRetryOnFailure(maxRetryCount: 3, maxRetryDelay: TimeSpan.FromSeconds(20), errorNumbersToAdd: null));
+                });
             services.AddLocalization(options => options.ResourcesPath = "Resources");
             services.Configure<RequestLocalizationOptions>(options =>
             {

@@ -47,7 +47,7 @@
             },
             "Hangfire": {
               "target": "Package",
-              "version": "[1.7.26, )"
+              "version": "[1.7.27, )"
             },
             "MailKit": {
               "target": "Package",
@@ -108,7 +108,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }
