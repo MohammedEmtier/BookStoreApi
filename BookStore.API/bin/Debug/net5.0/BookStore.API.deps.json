@@ -34,15 +34,14 @@
       "BookStore.API/1.0.0": {
         "dependencies": {
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "8.1.1",
-          "Hangfire": "1.7.26",
+          "BookStore.Domain": "1.0.0",
+          "EFCoreDb": "1.0.0",
+          "Hangfire": "1.7.27",
           "MailKit": "2.15.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "5.0.11",
-          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.11",
           "Microsoft.AspNetCore.JsonPatch": "5.0.11",
           "Microsoft.AspNetCore.Mvc.NewtonsoftJson": "5.0.11",
-          "Microsoft.EntityFrameworkCore.Design": "5.0.11",
-          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.11",
-          "Microsoft.EntityFrameworkCore.Tools": "5.0.11",
+          "Microsoft.EntityFrameworkCore.Tools": "5.0.12",
           "MimeKit": "2.15.1",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "5.0.0.0",
@@ -368,35 +367,35 @@
           "lib/netstandard2.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll": {}
         }
       },
-      "Hangfire/1.7.26": {
+      "Hangfire/1.7.27": {
         "dependencies": {
-          "Hangfire.AspNetCore": "1.7.26",
-          "Hangfire.Core": "1.7.26",
-          "Hangfire.SqlServer": "1.7.26"
+          "Hangfire.AspNetCore": "1.7.27",
+          "Hangfire.Core": "1.7.27",
+          "Hangfire.SqlServer": "1.7.27"
         }
       },
-      "Hangfire.AspNetCore/1.7.26": {
+      "Hangfire.AspNetCore/1.7.27": {
         "dependencies": {
-          "Hangfire.Core": "1.7.26"
+          "Hangfire.Core": "1.7.27"
         },
         "runtime": {
           "lib/netcoreapp3.0/Hangfire.AspNetCore.dll": {
-            "assemblyVersion": "1.7.26.0",
-            "fileVersion": "1.7.26.0"
+            "assemblyVersion": "1.7.27.0",
+            "fileVersion": "1.7.27.0"
           }
         },
         "compile": {
           "lib/netcoreapp3.0/Hangfire.AspNetCore.dll": {}
         }
       },
-      "Hangfire.Core/1.7.26": {
+      "Hangfire.Core/1.7.27": {
         "dependencies": {
           "Newtonsoft.Json": "12.0.2"
         },
         "runtime": {
           "lib/netstandard2.0/Hangfire.Core.dll": {
-            "assemblyVersion": "1.7.26.0",
-            "fileVersion": "1.7.26.0"
+            "assemblyVersion": "1.7.27.0",
+            "fileVersion": "1.7.27.0"
           }
         },
         "resources": {
@@ -444,15 +443,15 @@
           "lib/netstandard2.0/Hangfire.Core.dll": {}
         }
       },
-      "Hangfire.SqlServer/1.7.26": {
+      "Hangfire.SqlServer/1.7.27": {
         "dependencies": {
-          "Hangfire.Core": "1.7.26",
+          "Hangfire.Core": "1.7.27",
           "System.Data.SqlClient": "4.4.0"
         },
         "runtime": {
           "lib/netstandard2.0/Hangfire.SqlServer.dll": {
-            "assemblyVersion": "1.7.26.0",
-            "fileVersion": "1.7.26.0"
+            "assemblyVersion": "1.7.27.0",
+            "fileVersion": "1.7.27.0"
           }
         },
         "compile": {
@@ -522,7 +521,7 @@
       },
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore/5.0.11": {
         "dependencies": {
-          "Microsoft.EntityFrameworkCore.Relational": "5.0.11",
+          "Microsoft.EntityFrameworkCore.Relational": "5.0.12",
           "Microsoft.Extensions.Identity.Stores": "5.0.11"
         },
         "runtime": {
@@ -648,10 +647,10 @@
           }
         }
       },
-      "Microsoft.EntityFrameworkCore/5.0.11": {
+      "Microsoft.EntityFrameworkCore/5.0.12": {
         "dependencies": {
-          "Microsoft.EntityFrameworkCore.Abstractions": "5.0.11",
-          "Microsoft.EntityFrameworkCore.Analyzers": "5.0.11",
+          "Microsoft.EntityFrameworkCore.Abstractions": "5.0.12",
+          "Microsoft.EntityFrameworkCore.Analyzers": "5.0.12",
           "Microsoft.Extensions.Caching.Memory": "5.0.0",
           "Microsoft.Extensions.DependencyInjection": "5.0.2",
           "Microsoft.Extensions.Logging": "5.0.0",
@@ -661,72 +660,72 @@
         },
         "runtime": {
           "lib/netstandard2.1/Microsoft.EntityFrameworkCore.dll": {
-            "assemblyVersion": "5.0.11.0",
-            "fileVersion": "5.0.1121.47202"
+            "assemblyVersion": "5.0.12.0",
+            "fileVersion": "5.0.1221.51310"
           }
         },
         "compile": {
           "lib/netstandard2.1/Microsoft.EntityFrameworkCore.dll": {}
         }
       },
-      "Microsoft.EntityFrameworkCore.Abstractions/5.0.11": {
+      "Microsoft.EntityFrameworkCore.Abstractions/5.0.12": {
         "runtime": {
           "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Abstractions.dll": {
-            "assemblyVersion": "5.0.11.0",
-            "fileVersion": "5.0.1121.47202"
+            "assemblyVersion": "5.0.12.0",
+            "fileVersion": "5.0.1221.51310"
           }
         },
         "compile": {
           "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Abstractions.dll": {}
         }
       },
-      "Microsoft.EntityFrameworkCore.Analyzers/5.0.11": {},
-      "Microsoft.EntityFrameworkCore.Design/5.0.11": {
+      "Microsoft.EntityFrameworkCore.Analyzers/5.0.12": {},
+      "Microsoft.EntityFrameworkCore.Design/5.0.12": {
         "dependencies": {
           "Humanizer.Core": "2.8.26",
           "Microsoft.CSharp": "4.7.0",
-          "Microsoft.EntityFrameworkCore.Relational": "5.0.11"
+          "Microsoft.EntityFrameworkCore.Relational": "5.0.12"
         },
         "runtime": {
           "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Design.dll": {
-            "assemblyVersion": "5.0.11.0",
-            "fileVersion": "5.0.1121.47202"
+            "assemblyVersion": "5.0.12.0",
+            "fileVersion": "5.0.1221.51310"
           }
         }
       },
-      "Microsoft.EntityFrameworkCore.Relational/5.0.11": {
+      "Microsoft.EntityFrameworkCore.Relational/5.0.12": {
         "dependencies": {
-          "Microsoft.EntityFrameworkCore": "5.0.11",
+          "Microsoft.EntityFrameworkCore": "5.0.12",
           "Microsoft.Extensions.Configuration.Abstractions": "5.0.0"
         },
         "runtime": {
           "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Relational.dll": {
-            "assemblyVersion": "5.0.11.0",
-            "fileVersion": "5.0.1121.47202"
+            "assemblyVersion": "5.0.12.0",
+            "fileVersion": "5.0.1221.51310"
           }
         },
         "compile": {
           "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Relational.dll": {}
         }
       },
-      "Microsoft.EntityFrameworkCore.SqlServer/5.0.11": {
+      "Microsoft.EntityFrameworkCore.SqlServer/5.0.12": {
         "dependencies": {
           "Microsoft.Data.SqlClient": "2.0.1",
-          "Microsoft.EntityFrameworkCore.Relational": "5.0.11"
+          "Microsoft.EntityFrameworkCore.Relational": "5.0.12"
         },
         "runtime": {
           "lib/netstandard2.1/Microsoft.EntityFrameworkCore.SqlServer.dll": {
-            "assemblyVersion": "5.0.11.0",
-            "fileVersion": "5.0.1121.47202"
+            "assemblyVersion": "5.0.12.0",
+            "fileVersion": "5.0.1221.51310"
           }
         },
         "compile": {
           "lib/netstandard2.1/Microsoft.EntityFrameworkCore.SqlServer.dll": {}
         }
       },
-      "Microsoft.EntityFrameworkCore.Tools/5.0.11": {
+      "Microsoft.EntityFrameworkCore.Tools/5.0.12": {
         "dependencies": {
-          "Microsoft.EntityFrameworkCore.Design": "5.0.11"
+          "Microsoft.EntityFrameworkCore.Design": "5.0.12"
         }
       },
       "Microsoft.Extensions.Caching.Abstractions/5.0.0": {
@@ -1593,6 +1592,30 @@
           "System.Threading": "4.3.0",
           "System.Xml.ReaderWriter": "4.3.0",
           "System.Xml.XmlDocument": "4.3.0"
+        }
+      },
+      "BookStore.Domain/1.0.0": {
+        "runtime": {
+          "BookStore.Domain.dll": {}
+        },
+        "compile": {
+          "BookStore.Domain.dll": {}
+        }
+      },
+      "EFCoreDb/1.0.0": {
+        "dependencies": {
+          "AutoMapper.Extensions.Microsoft.DependencyInjection": "8.1.1",
+          "BookStore.Domain": "1.0.0",
+          "Hangfire": "1.7.27",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.11",
+          "Microsoft.EntityFrameworkCore": "5.0.12",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.12"
+        },
+        "runtime": {
+          "EFCoreDb.dll": {}
+        },
+        "compile": {
+          "EFCoreDb.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/5.0.0.0": {
@@ -3279,33 +3302,33 @@
       "path": "automapper.extensions.microsoft.dependencyinjection/8.1.1",
       "hashPath": "automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512"
     },
-    "Hangfire/1.7.26": {
+    "Hangfire/1.7.27": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-GTrZpJgC1wpOMwGEJ79PzDaaKy3X8dzt9U5OcKjGyex52K2GvXzRw0wdO2svPHC4hHCwOnSyfblpfDIVLaQSpg==",
-      "path": "hangfire/1.7.26",
-      "hashPath": "hangfire.1.7.26.nupkg.sha512"
+      "sha512": "sha512-VwyQWIodJieEet0sPIfKCgW29qSPnz+7MuUt86lGDDUssnSzwtZWzHljt4k+6UE9RMTbR6THIRjvfP6UKOymSA==",
+      "path": "hangfire/1.7.27",
+      "hashPath": "hangfire.1.7.27.nupkg.sha512"
     },
-    "Hangfire.AspNetCore/1.7.26": {
+    "Hangfire.AspNetCore/1.7.27": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-5Pr/4zWE/xC4Fw7hYwjAqwGSpFBY3gJE9dTEAx4IggSazm7JmgZOAlQKzwSIssEV+l3mmt9dg0X5nZQIumNPBg==",
-      "path": "hangfire.aspnetcore/1.7.26",
-      "hashPath": "hangfire.aspnetcore.1.7.26.nupkg.sha512"
+      "sha512": "sha512-jZ/emclWwC6LeSRnboIFY6PwXWlDGLwsbFgQt/1MCryqOPdtCL3O7wi+D6ZUsJwHl+unH9CLYSIpDPyT3ad/qA==",
+      "path": "hangfire.aspnetcore/1.7.27",
+      "hashPath": "hangfire.aspnetcore.1.7.27.nupkg.sha512"
     },
-    "Hangfire.Core/1.7.26": {
+    "Hangfire.Core/1.7.27": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-a3NpNBfWPgWNlm4acFgWyhGSjVVebsRpniZvTeQSA8BI5UqW64MW7e6A6d9rGk903fJyWqabNZOIDmpUpdsFoQ==",
-      "path": "hangfire.core/1.7.26",
-      "hashPath": "hangfire.core.1.7.26.nupkg.sha512"
+      "sha512": "sha512-CuUQjkWBmaLyJGl/eNbSvTH+uOby8ua5WjTrcV4vhiS9xdRgWYLxgr3lQJRyQ9SaL0vifpqaPgBWOoo68KmbJw==",
+      "path": "hangfire.core/1.7.27",
+      "hashPath": "hangfire.core.1.7.27.nupkg.sha512"
     },
-    "Hangfire.SqlServer/1.7.26": {
+    "Hangfire.SqlServer/1.7.27": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-ONJYKwtE/5UwCjwPGE04MGL0sDh/ASr1fZddlQZEPtvS5lKAj+N8djY7Ac0V2qCjxSEdezcrYweBVy9SRoxBxQ==",
-      "path": "hangfire.sqlserver/1.7.26",
-      "hashPath": "hangfire.sqlserver.1.7.26.nupkg.sha512"
+      "sha512": "sha512-XwTZhrq0h34FuluhuQhKS7Axt1xymBwDv5vtCNLBrvRTMxlSY0Ek5AdtZgTNpwGgmIrVccO5/m+0v2EBDk0a8g==",
+      "path": "hangfire.sqlserver/1.7.27",
+      "hashPath": "hangfire.sqlserver.1.7.27.nupkg.sha512"
     },
     "Humanizer.Core/2.8.26": {
       "type": "package",
@@ -3384,54 +3407,54 @@
       "path": "microsoft.data.sqlclient.sni.runtime/2.0.1",
       "hashPath": "microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512"
     },
-    "Microsoft.EntityFrameworkCore/5.0.11": {
+    "Microsoft.EntityFrameworkCore/5.0.12": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-2DQJvH6NRPRKPOR6ZaJe2pDn0bSpQZSzHk+7QatFo06KfvP3Tixy5DAOviXkP6963FEQMuVDSvZef1amORBnaw==",
-      "path": "microsoft.entityframeworkcore/5.0.11",
-      "hashPath": "microsoft.entityframeworkcore.5.0.11.nupkg.sha512"
+      "sha512": "sha512-NsGCTrPfGUXS4QFCLM5SlnfyED8JUswpcnguA3MSTBq6Zjnmkxjzrm6eDg4MBuiebZX2nfGONMavOKRWaZDjMw==",
+      "path": "microsoft.entityframeworkcore/5.0.12",
+      "hashPath": "microsoft.entityframeworkcore.5.0.12.nupkg.sha512"
     },
-    "Microsoft.EntityFrameworkCore.Abstractions/5.0.11": {
+    "Microsoft.EntityFrameworkCore.Abstractions/5.0.12": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-Ut1BeIwAavUncIChZ0jM7qdqVsnLI1i2eCn/7rdqpVW/JldPFMQzlCMBtiq7dGuVMSniDNUnc93olYtttyD/Fg==",
-      "path": "microsoft.entityframeworkcore.abstractions/5.0.11",
-      "hashPath": "microsoft.entityframeworkcore.abstractions.5.0.11.nupkg.sha512"
+      "sha512": "sha512-AWRxHGp55hAAT4P8E/9soD5TpSaD1uBByvEMnhdRopILgbZSh90War+wVBAou3h+6kxV2MSp1WErE1w+BVZtjA==",
+      "path": "microsoft.entityframeworkcore.abstractions/5.0.12",
+      "hashPath": "microsoft.entityframeworkcore.abstractions.5.0.12.nupkg.sha512"
     },
-    "Microsoft.EntityFrameworkCore.Analyzers/5.0.11": {
+    "Microsoft.EntityFrameworkCore.Analyzers/5.0.12": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-6vCGQY0H667qkV5fGuhHzWPveF0dpEwEs9xQyDgamwxkIN7LrPHQGp2eOXj6xVF+i8noTLtTR4sNMizKSnI2JA==",
-      "path": "microsoft.entityframeworkcore.analyzers/5.0.11",
-      "hashPath": "microsoft.entityframeworkcore.analyzers.5.0.11.nupkg.sha512"
+      "sha512": "sha512-MTxvfKtEeQN5E5fBJO/jNfBdcKqw///Pro4uI2o0q8ukMaLsff4TgC8cfPBtzkz6wh55z0b4kldUv2r34Ix3sg==",
+      "path": "microsoft.entityframeworkcore.analyzers/5.0.12",
+      "hashPath": "microsoft.entityframeworkcore.analyzers.5.0.12.nupkg.sha512"
     },
-    "Microsoft.EntityFrameworkCore.Design/5.0.11": {
+    "Microsoft.EntityFrameworkCore.Design/5.0.12": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-bleWPdcyO801J85HWko7syP+aGrOBySuGtKEKaRVrdoPgrQEnu8USZilddZW0JP2DKtWOTLHVLpTHZrZY4f9bw==",
-      "path": "microsoft.entityframeworkcore.design/5.0.11",
-      "hashPath": "microsoft.entityframeworkcore.design.5.0.11.nupkg.sha512"
+      "sha512": "sha512-ppGtADfdRv94SQhol8kbYupjjwpNrJ0V2V2jPXzM7zf9cZoDDSmlKXq4sHCdhC4L2ObD8DaykmAcgMIxPleHOg==",
+      "path": "microsoft.entityframeworkcore.design/5.0.12",
+      "hashPath": "microsoft.entityframeworkcore.design.5.0.12.nupkg.sha512"
     },
-    "Microsoft.EntityFrameworkCore.Relational/5.0.11": {
+    "Microsoft.EntityFrameworkCore.Relational/5.0.12": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-6JLLJbi5Rh2LicrGi7nnhbmkQGCKi72uhjlAY/ozJr6cJdHOaMCUeWfglgrXUwvA5C+oE814eOxjeTdEF9oTyQ==",
-      "path": "microsoft.entityframeworkcore.relational/5.0.11",
-      "hashPath": "microsoft.entityframeworkcore.relational.5.0.11.nupkg.sha512"
+      "sha512": "sha512-Bt+PYQWb19ajOxkyXp2HHwyyAi7JJnaAZK3DTvh4254cGLJTLCIsa7zzgFEo1yXRh9a0a4voAeD7CaThbgH17Q==",
+      "path": "microsoft.entityframeworkcore.relational/5.0.12",
+      "hashPath": "microsoft.entityframeworkcore.relational.5.0.12.nupkg.sha512"
     },
-    "Microsoft.EntityFrameworkCore.SqlServer/5.0.11": {
+    "Microsoft.EntityFrameworkCore.SqlServer/5.0.12": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-RQVMP2DmrHz/7rxBN/3fAfun1QOWAcqJMZLBfXr+K+rSgqXn/fIeTQ0k7Bms9LQO9v90PGPyYhcS7t5QhUw1jQ==",
-      "path": "microsoft.entityframeworkcore.sqlserver/5.0.11",
-      "hashPath": "microsoft.entityframeworkcore.sqlserver.5.0.11.nupkg.sha512"
+      "sha512": "sha512-leJohwUxtdDQcpnkzvx0Kkq92AZ8akgaxR8TChts3fD07iqWktPMqs+u5CLcGQwGFd8GuCXUZXBJxvUM1/UNJg==",
+      "path": "microsoft.entityframeworkcore.sqlserver/5.0.12",
+      "hashPath": "microsoft.entityframeworkcore.sqlserver.5.0.12.nupkg.sha512"
     },
-    "Microsoft.EntityFrameworkCore.Tools/5.0.11": {
+    "Microsoft.EntityFrameworkCore.Tools/5.0.12": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-Ket2Wo146N+2w6eC+0R1jSNZCp4TZY6teY8Z59dS7CfrOr2hESNaGHNFDVmHnvgeeT6qwHZqwaTWn6v/YsVmbw==",
-      "path": "microsoft.entityframeworkcore.tools/5.0.11",
-      "hashPath": "microsoft.entityframeworkcore.tools.5.0.11.nupkg.sha512"
+      "sha512": "sha512-fk6P7PZmbN/148oR2RBTnCWsTMdNKlOL/OgF6HJOY8HBbNLIdW720hYIbckmwQ6kad2gaKGXYoW9tDDu69cCQA==",
+      "path": "microsoft.entityframeworkcore.tools/5.0.12",
+      "hashPath": "microsoft.entityframeworkcore.tools.5.0.12.nupkg.sha512"
     },
     "Microsoft.Extensions.Caching.Abstractions/5.0.0": {
       "type": "package",
@@ -4090,6 +4113,16 @@
       "sha512": "sha512-MYoTCP7EZ98RrANESW05J5ZwskKDoN0AuZ06ZflnowE50LTpbR5yRg3tHckTVm5j/m47stuGgCrCHWePyHS70Q==",
       "path": "system.xml.xmlserializer/4.3.0",
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    },
+    "BookStore.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EFCoreDb/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Microsoft.AspNetCore.Antiforgery/5.0.0.0": {
       "type": "referenceassembly",

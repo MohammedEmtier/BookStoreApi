@@ -39,10 +39,7 @@ namespace BookStore.API.Repository
                 Email = signUpModel.Email,
                 UserName = signUpModel.Email
             };
-            //if (await _userManager.FindByEmailAsync(signUpModel.Email) is not null)
-            //{
-            //    // return  _userManager.ErrorDescriber.DuplicateEmail(signUpModel.Email);
-            //}
+
             return await _userManager.CreateAsync(user, signUpModel.Password);
         }
 
@@ -55,9 +52,9 @@ namespace BookStore.API.Repository
                 return null;
             }
 
-            return CreateToken(signInModel);
+            return GenerateToken(signInModel);
         }
-        public String CreateToken(SignInModel signInModel)
+        public String GenerateToken(SignInModel signInModel)
         {
             var authClaims = new List<Claim>
             {
@@ -69,7 +66,7 @@ namespace BookStore.API.Repository
             var token = new JwtSecurityToken(
                 issuer: _configuration["JWT:ValidIssuer"],
                 audience: _configuration["JWT:ValidAudience"],
-                expires: DateTime.Now.AddDays(1),
+                expires: DateTime.Now.AddMonths(5),
                 claims: authClaims,
                 signingCredentials: new SigningCredentials(authSigninKey, SecurityAlgorithms.HmacSha256Signature)
                 );

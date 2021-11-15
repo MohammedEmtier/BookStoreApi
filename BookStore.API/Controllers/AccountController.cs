@@ -46,7 +46,7 @@ namespace BookStore.API.Controllers
                 }
 
                 var result = await _accountRepository.SignUpAsync(signUpModel);
-              await emailSender.sendemail(signUpModel.Email, "BookStore Register", "Please confirm your account by clicking here Your Register is Done");
+              await emailSender.sendemail(signUpModel.Email, "BookStore Register", "Please confirm your account by clicking here Your Register is Done",null);
                 if (result.Succeeded)
                 {
                     var defalut = new DefaultformApi()
