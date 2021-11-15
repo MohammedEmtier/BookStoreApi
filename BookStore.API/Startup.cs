@@ -39,13 +39,7 @@ namespace BookStore.API
             {
                 app.UseDeveloperExceptionPage();
             }
-            app.UseHttpsRedirection();
-            app.UseHangfireDashboard(pathMatch: "/dashboard");
-            app.UseRouting();
-            IOptions<RequestLocalizationOptions> locOptions = app.ApplicationServices.GetService<IOptions<RequestLocalizationOptions>>();
-            app.UseRequestLocalization(locOptions.Value);
-            app.UseAuthentication();
-            app.UseAuthorization();
+            app.CustomApplicationServicesBuilder().CustomAuthenticationBuilder();
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
@@ -85,6 +79,16 @@ namespace BookStore.API
             services.AddAutoMapper(typeof(Startup));
             return services;
         }
+        public static IApplicationBuilder CustomApplicationServicesBuilder(this IApplicationBuilder builder)
+        {
+            if (builder == null) throw new ArgumentNullException(nameof(builder));
+            builder.UseHttpsRedirection();
+            builder.UseHangfireDashboard(pathMatch: "/dashboard");
+            builder.UseRouting();
+            IOptions<RequestLocalizationOptions> locOptions = builder.ApplicationServices.GetService<IOptions<RequestLocalizationOptions>>();
+            builder.UseRequestLocalization(locOptions.Value);
+            return builder;
+        }
         public static IServiceCollection AddCustomAuthentication(this IServiceCollection services, IConfiguration Configuration)
         {
             if (services == null) throw new ArgumentNullException(nameof(services));
@@ -109,5 +113,13 @@ namespace BookStore.API
                });
             return services;
         }
+        public static IApplicationBuilder CustomAuthenticationBuilder(this IApplicationBuilder builder)
+        {
+            if (builder == null) throw new ArgumentNullException(nameof(builder));
+            builder.UseAuthentication();
+            builder.UseAuthorization();
+            return builder;
+        }
+
     }
 }
